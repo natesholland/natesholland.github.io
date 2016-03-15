@@ -5,7 +5,7 @@ date:   2016-03-15 10:56:30 -0600
 categories: jekyll update
 ---
 
-# Automate all of the things
+# Automate All Of The Things
 
 Automation is a common topic of conversation amongst developers these days.
 Whether they be automated cars or automated CI/CD projects large automation
@@ -23,3 +23,25 @@ This process ends up taking up a good amount of our time because Community is an
 older legacy app and takes a while to deploy and run the tests and so on.
 Part of our process is to always tag our releases with the timestamp of when
 they are released.
+Tagging allows us to have frozen snapshots of what code is deployed when but it
+does add another manual step in the process of releasing our code.
+Here's where automating all of the things comes in.
+
+Automating something as simple as creating a tag might seem silly.
+It only takes a few minutes to run a couple commands to ensure that the current
+release branch contains the head of master and the sha is correct.
+However there are still manual errors that can occur and furthermore
+Dev Lead hours are not cheap and we would rather not waste them.
+We've had people accidentally tag master (safe but wasted time), or tag the wrong
+sha (potentially dangerous).
+
+Therefore we decided to automate the process of tagging a release.
+This took about an hour to hammer out and we had to tweak a few things after our
+first test run.
+Here are a few of the main take-aways I got from automating this small process.
+
+* Not only does this save me time, it ends up saving time for every Dev and QA Lead
+in the company.
+* Small automation projects take a small amount of time and can be fit into small
+blocks of time that would otherwise be wasted.
+* By automating a process it allows us to hand the process off to less experienced devs.
