@@ -45,3 +45,14 @@ in the company.
 * Small automation projects take a small amount of time and can be fit into small
 blocks of time that would otherwise be wasted.
 * By automating a process it allows us to hand the process off to less experienced devs.
+
+One of the major wins of this project is it took almost no time to automate but
+it is going to save us time across the company and free up some extra time for
+our leads who are often strapped for time.
+I would encourage anyone who has an extra 30 minutes between meetings to try
+and automate a small task you or someone you work with does every day.
+Not only will it help you be more productive in the long run, but it also makes
+friends because you are saving other people time.
+
+For reference here is the automation script:
+<script src="https://gist.github.com/natesholland/dccc1cd42787a72c863d.js"></script>
