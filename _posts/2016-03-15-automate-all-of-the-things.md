@@ -5,8 +5,6 @@ date:   2016-03-15 10:56:30 -0600
 categories: jekyll update
 ---
 
-# Automate All Of The Things
-
 Automation is a common topic of conversation amongst developers these days.
 Whether they be automated cars or automated CI/CD projects large automation
 projects are a run topic to talk about and garner a lot of attention.
