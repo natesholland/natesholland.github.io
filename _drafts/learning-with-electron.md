@@ -38,3 +38,10 @@ First let me discuss a little bit about how and why I decided to learn Javascrip
 by building an app on Electron.
 First I wanted to make a desktop client for searching GIFs because it sounded like
 a fun thing to do and we use a lot of GIFs in chat at work.
+Furthermore Electron is completely JavaScript, CSS, and HTML which are all things
+I wanted to get more practice with.
+The app I built is called [Gifinater](http://github.com/natesholland/gifinater)
+and can be found on my Github.
+
+Working in the Electron framework forced my to use JavaScript because the frontend
+and backend are both JavaScript.
