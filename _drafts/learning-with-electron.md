@@ -33,3 +33,8 @@ But that's enough about Electron, here's why I think it would make a great learn
 platform.
 
 ### Learning
+
+First let me discuss a little bit about how and why I decided to learn Javascript
+by building an app on Electron.
+First I wanted to make a desktop client for searching GIFs because it sounded like
+a fun thing to do and we use a lot of GIFs in chat at work.
