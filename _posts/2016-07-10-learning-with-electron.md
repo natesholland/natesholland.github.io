@@ -28,7 +28,8 @@ At its most simple level it ties together Nope and Chromium to be able to run
 HTML, JavaScript, and CSS applications as native desktop applications.
 It also handles the abstractions of running on Mac, Linux, and Windows so the
 developer get's to focus on creating the application and not writing adapters for
-all the different OS's.
+all the different OS's. And it has good [Documentation](http://electron.atom.io/docs/)
+to boot!
 But that's enough about Electron, here's why I think it would make a great learning
 platform.
 
@@ -42,6 +43,7 @@ Furthermore Electron is completely JavaScript, CSS, and HTML which are all thing
 I wanted to get more practice with.
 The app I built is called [Gifinater](http://github.com/natesholland/gifinater)
 and can be found on my Github.
+Perhaps I'll write a blog post about it at a later date.
 
 ![](/img/gifinater.png)
 

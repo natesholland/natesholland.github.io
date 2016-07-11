@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Automate all of the things"
+title:  "Automate All of the Things"
 date:   2016-03-15 10:56:30 -0600
 categories: jekyll update
 ---
