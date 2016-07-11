@@ -43,6 +43,8 @@ I wanted to get more practice with.
 The app I built is called [Gifinater](http://github.com/natesholland/gifinater)
 and can be found on my Github.
 
+![](/img/gifinater.png)
+
 Now for why Electron can make a great platform for learning JavaScript.
 First off everything can be set up to run out of the box.
 I started with the [Electron Quick Start](https://github.com/electron/electron-quick-start)
@@ -52,3 +54,9 @@ Furthermore since it works across platforms it can still be an effective teachin
 tool where student's machines will be heterogenous.
 A prebuilt testing framework could also be set up with Jasmine, allowing for
 automated testing of the students work or submissions.
+This ease of configuration would cut down on set up time which seems to often
+eat into lab time and take up valuable learning time.
+Finally the skills learned from Electron are easily transferable.
+Since Electron is basically just Chromium plus Node.js anything learned while
+working on Electron could easily be transferred to frontend web development or
+backend work on a Node.js server.
