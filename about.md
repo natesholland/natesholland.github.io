@@ -8,8 +8,7 @@ permalink: /about/
 
 * From Austin, Texas
 * Undergrad in Computer Science from UC Berkeley
-* Masters in Computer Science from Georgia Tech with concentrating in Machine Learning
-  * (in progress, expected to graduate Spring 2018)
-* Software Engineer - Search Quality at Indeed
+* Masters in Computer Science from Georgia Tech with concentrating in Machine Learning and Interactive Intelligence
+* Senior Software Engineer at ShippingEasy
 * Creator, Builder, Musician
-* Avid Jeeper (2 Door JK)
+* Car Enthusiast (2 Door JK and BRZ)
