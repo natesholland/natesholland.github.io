@@ -17,3 +17,8 @@ little bit fast.
 
 * [Installation and Setup](/learning_ruby/install_and_setup)
 * [Classes](/learning_ruby/classes)
+* [Functions](/learning_ruby/functions)
+* [Basic Data Types](/learning_ruby/data_types)
+* [Enumerables and Loops](/learning_ruby/loops)
+* [Blocks and yields](/learning_ruby/yields)
+* [If Else Case and Control Flow](/learning_ruby/control_flow)
