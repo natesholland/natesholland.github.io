@@ -105,4 +105,48 @@ object.
 
 ### Set
 
-### Open Struct
+In Ruby sets are used a little bit less frequently than the other main datatypes
+but they can still be very useful.
+
+```ruby
+require 'set'
+> set = Set.new
+=> #<Set: {}>
+> set << "foo" # you can use the shovel operator here as well
+> set.include? "foo" # true
+> set << "bar"
+> set.to_a # convert the set to an array
+=> ["foo", "bar"]
+> set.each { |element| puts element } # iterating over a set
+foo
+bar
+```
+
+### OpenStruct
+
+OpenStructs are a lesser known datatype in Ruby that I am a fan of.
+They are basically wrappers around hashes (and can even be initialized with one).
+However, they provide a slightly prettier interface and in my opinion can be
+very useful for passing back multiple results from a method.
+
+```ruby
+require 'ostruct'
+> fruit = OpenStruct.new
+> fruit.color = "red"
+> fruit.name = "apple"
+> fruit.grams = 100
+> fruit.name
+=> "apple"
+
+# note that you can also initialize OpenStructs with hashes and compare them
+> fruit == OpenStruct.new({name: "apple", color: "red", grams: 100})
+=> true
+```
+
+If you want to delete a method off of an open struct you need to use `delete_field`.
+
+```ruby
+fruit.delete_field(:grams)
+> fruit.grams
+=> nil
+```
