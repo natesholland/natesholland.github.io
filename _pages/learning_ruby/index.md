@@ -22,3 +22,4 @@ little bit fast.
 * [Enumerables and Loops](/learning_ruby/loops)
 * [Blocks and yields](/learning_ruby/yields)
 * [If Else Case and Control Flow](/learning_ruby/control_flow)
+* [Metaprogramming](/learning_ruby/metaprogramming)
