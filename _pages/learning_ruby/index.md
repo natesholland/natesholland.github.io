@@ -24,3 +24,4 @@ little bit fast.
 * [If Else Case and Control Flow](/learning_ruby/control_flow)
 * [Metaprogramming](/learning_ruby/metaprogramming)
 * [Debugging](/learning_ruby/debugging)
+* [Rails](/learning_ruby/rails)
