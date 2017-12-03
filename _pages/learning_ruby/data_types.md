@@ -38,6 +38,7 @@ hash["foo"] # "bar"
 > hash.keys
 => ["foo", :foo]
 ```
+For more documentation on the Hash class click [here](https://ruby-doc.org/core-2.4.0/Hash.html).
 
 ### Array
 
@@ -64,6 +65,8 @@ two
 3.0
 four
 ```
+
+For more documentation on the Array class click [here](https://ruby-doc.org/core-2.4.0/Array.html).
 
 ### Strings and Symbols
 
@@ -103,6 +106,9 @@ object.
 > string.object_id == another_string.object_id # false
  ```
 
+ For more documentation on Strings click [here](https://ruby-doc.org/core-2.4.0/String.html)
+ and for more on symbols click [here](https://ruby-doc.org/core-2.4.2/Symbol.html).
+
 ### Set
 
 In Ruby sets are used a little bit less frequently than the other main datatypes
@@ -121,6 +127,8 @@ require 'set'
 foo
 bar
 ```
+
+For more documentation on the Set class click [here](http://ruby-doc.org/stdlib-2.4.2/libdoc/set/rdoc/Set.html).
 
 ### OpenStruct
 
@@ -150,3 +158,5 @@ fruit.delete_field(:grams)
 > fruit.grams
 => nil
 ```
+
+For more documentation on the OpenStruct class click [here](https://ruby-doc.org/stdlib-2.0.0/libdoc/ostruct/rdoc/OpenStruct.html).
