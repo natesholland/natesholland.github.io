@@ -9,6 +9,6 @@ permalink: /about/
 * From Austin, Texas
 * Undergrad in Computer Science from UC Berkeley
 * Masters in Computer Science from Georgia Tech with concentrating in Machine Learning and Interactive Intelligence
+* MBA from Texas McCombs
 * Senior Software Engineer at ShippingEasy
-* Creator, Builder, Musician
-* Car Enthusiast (2 Door JK and BRZ)
+* Hobbies include music, cars (2 Door JK), and making things
