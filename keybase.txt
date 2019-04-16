@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/natesholland
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://natesholland.com
+  * I am natesholland (https://keybase.io/natesholland) on keybase.
+  * I have a public key ASDl1lwm36cZfYzgNVH_Z4MKcQmnutQxPMaewYtUBydBnAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e5d65c26dfa7197d8ce03551ff67830a7109a7bad4313cc69ec18b540727419c0a",
+      "host": "keybase.io",
+      "kid": "0120e5d65c26dfa7197d8ce03551ff67830a7109a7bad4313cc69ec18b540727419c0a",
+      "uid": "1c3ca854eb6902469d8ba47a1eba4519",
+      "username": "natesholland"
+    },
+    "merkle_root": {
+      "ctime": 1555376330,
+      "hash": "cbe47c99f19c14db9921e52e8718bfae33a1c6d307aa577aa9ebed791803e0cadafc42e85de3ed4e4e0c21a957d8a9364932ea56d6cdad857375f622a4142ce9",
+      "hash_meta": "49e3378c3a558a0c0025913b3e80613a2a7a2a7fc9bcf1ffab8dff1ef72dcc01",
+      "seqno": 5176400
+    },
+    "service": {
+      "entropy": "aroeMccEUei0HElVRUrdJPBP",
+      "hostname": "natesholland.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.2.2"
+  },
+  "ctime": 1555376352,
+  "expire_in": 504576000,
+  "prev": "a72422787467495499bf6a993ac6d66149d488c9f32b5523b11c9db06bb13827",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg5dZcJt+nGX2M4DVR/2eDCnEJp7rUMTzGnsGLVAcnQZwKp3BheWxvYWTESpcCBsQgpyQieHRnSVSZv2qZOsbWYUnUiMnzK1UjsRydsGuxOCfEINvUzRfGeic78yP9QnFT6qdzkboQ8eMYeAsmpOXvy9PvAgHCo3NpZ8RAVDPn1vGJypD6u2IQi/2S0qPHr687Auqf6Nvr8G0rOerjTP7oBUHn8FXOW9x0/PWRLXQ0sS+ws6N521ufzQXKCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICXrahTt85hiL/LBWPWyf3nkSb+k0WKK+a7VkvLYtaXRo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/natesholland
+
+==================================================================
