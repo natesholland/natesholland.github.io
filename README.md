@@ -1,6 +1,6 @@
 # natesholland
 
-https://natesholland.github.io
+https://natesholland.github.io or https://natesholland.com
 
 ## Setup
 
