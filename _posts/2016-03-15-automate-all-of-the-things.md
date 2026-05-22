@@ -3,6 +3,7 @@ layout: post
 title:  "Automate All of the Things"
 date:   2016-03-15 10:56:30 -0600
 categories: jekyll update
+published: false
 ---
 
 Automation is a common topic of conversation amongst developers these days.
